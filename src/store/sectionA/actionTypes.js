@@ -1,0 +1,1 @@
+export const SECTION_A_ACTION_FOO = 'sectionA.SECTION_A_ACTION_FOO';

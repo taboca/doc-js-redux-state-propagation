@@ -1,0 +1,1 @@
+export const SECTION_B_ACTION_BAR = 'sectionB.SECTION_B_ACTION_BAR';

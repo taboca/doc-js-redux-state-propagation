@@ -12,8 +12,6 @@ class App extends Component {
 
         <div>
         <TestActivity />
-        <TestActivityA />
-        <TestActivityB />
         </div>
       </div>
     );
